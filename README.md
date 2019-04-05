@@ -1,9 +1,9 @@
-# testCaseTwoLevelCache
+# Test Case Two Level Cache
 
 test case application for interview in Wiley 
 
 Стандартное тестовое задание (реализацтя двух уровневого кэша) которое дают перед собеседованием в wiley. К сожалению я меня не наняли. 
-Выкладыва может кому пригодится. Так же прилагаю замечания по коду (со своими пояснениями и исправлениям).
+Выкладываю исходники, может кому пригодится. Так же прилагаю замечания по коду (со своими пояснениями и исправлениям).
   *  mix of boxed and primitives - исправлено
   *   inaccurate work with generics -ничего не могу сказать по этому поводу
   *   due to mix of primitive/boxed there are places when NPE will happen for some configs - см первый пункт
